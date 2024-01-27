@@ -5,7 +5,7 @@ about:
   image: Profile_Picture.jpg
   links: 
     - icon: github
-      text: My GitHub
+      text: ABC
       href: https://github.com/karimhbadr1
 ---
 
