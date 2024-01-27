@@ -1,8 +1,12 @@
 ---
-title: "Hi, it's Karim here "
+title: "Karim Badr"
 image: Profile_Picture.jpg
 about:
   template: jolla
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/karimhbadr1
 ---
 
 This is a Quarto website.
