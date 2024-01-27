@@ -5,8 +5,10 @@ about:
   image: Profile_Picture.jpg
   links: 
     - icon: github
-      text: "ABC"
       href: https://github.com/karimhbadr1
+    - icon: linkedin
+      text: LI
+      href: https://www.linkedin.com/in/karim-badr-7158aa1b0
 ---
 
 This is a Quarto website.
