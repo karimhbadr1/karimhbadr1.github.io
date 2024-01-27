@@ -1,11 +1,11 @@
 ---
 title: "Karim Badr"
-image: Profile_Picture.jpg
 about:
   template: jolla
+  image: Profile_Picture.jpg
   links: 
     - icon: github
-      text: Github
+      text: My GitHub
       href: https://github.com/karimhbadr1
 ---
 
