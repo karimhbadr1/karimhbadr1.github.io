@@ -10,6 +10,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/karim-badr-7158aa1b0
+    - icon: envelope
+      text: Email
+      href: mailto:karimhbadr@gmail.com 
 ---
 
 This is a Quarto website.
