@@ -5,6 +5,7 @@ about:
   image: Profile_Picture.jpg
   links: 
     - icon: github
+      text: GitHub
       href: https://github.com/karimhbadr1
     - icon: linkedin
       text: LI
