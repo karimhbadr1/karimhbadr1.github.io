@@ -13,6 +13,8 @@ about:
     - icon: envelope
       text: Email
       href: mailto:karimhbadr@gmail.com 
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      url: https://scholar.google.com/citations?user=RKaTrHIAAAAJ&hl=en
 ---
 
 This is a Quarto website.
