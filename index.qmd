@@ -1,8 +1,9 @@
 ---
 title: "Karim Badr"
 about:
-  template: jolla
+  template: trestles
   image: Profile_Picture.jpg
+  image-shape: round
   links: 
     - icon: github
       text: GitHub
