@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Karim Badr"
+  google-analytics: "G-KDNF6K6698"
   navbar:
     left:
       - href: index.qmd

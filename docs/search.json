@@ -7,17 +7,17 @@
     "text": "About this site"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Karim Badr",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
     "objectID": "work.html",
     "href": "work.html",
     "title": "Work",
     "section": "",
     "text": "This is the work page."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Karim Badr",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
